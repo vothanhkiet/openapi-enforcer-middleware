@@ -5,7 +5,7 @@ module.exports = {
   },
   site: {
     editSourceUrl: 'https://github.com/byu-oit/openapi-enforcer-middleware/tree/master/docs-src',
-    title: 'Open API Enforcer Middleware',
+    title: 'OpenAPI Enforcer Middleware',
     url: 'https://byu-oit.github.io/openapi-enforcer-middleware',
   },
   template: {
@@ -21,8 +21,8 @@ module.exports = {
     favicon: '/favicon.png',
     finePrint: '',
     footerLinks: [
-      { title: 'Github', href: 'https://byu-oit.github.io/openapi-enforcer-middleware' },
-      { title: 'NPM', href: 'https://www.npmjs.com/package/@byu-oit/openapi-enforcer-middleware' }
+      { title: 'Github', href: 'https://github.com/byu-oit/openapi-enforcer-middleware' },
+      { title: 'NPM', href: 'https://www.npmjs.com/package/openapi-enforcer-middleware' }
     ]
   }
 }
